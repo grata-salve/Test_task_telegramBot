@@ -64,3 +64,8 @@ Here’s how you can interact with the bot:
 1. Start the bot and send the `/start` command.
 2. The bot will respond with a welcome message.
 3. You can modify the `onUpdateReceived` method to handle additional commands.
+
+## Try the Bot
+
+You can interact with the bot here: [Test Task Telegram Bot](https://t.me/test_task_gr_bot).
+
